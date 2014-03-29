@@ -1,0 +1,26 @@
+package com.parsing;
+
+import java.io.File;
+
+
+public class sorting {
+	public static void main(String args[])
+	{
+		try
+		{
+		//XMLmethods.noDocuments=1234455788;
+		long start = System.currentTimeMillis();;
+		File f=new File("/media/1C5E2FC95E2F9A92/Documents and Settings/USER/Documents/IRE/index"+3+".txt");
+	    ExternalSort.sort(f,"/home/raj/workspace/parsing/index/",3);
+	/*	XMLmethods.noDocuments=14041179;
+		ExternalSort.completeSort("/home/raj/workspace/parsing/index/",4);*/
+		long start1 = System.currentTimeMillis();;
+		System.out.println((start1 - start) + " ms");
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			// TODO: handle exception
+		}
+	}
+
+}

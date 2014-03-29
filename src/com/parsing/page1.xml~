@@ -1,0 +1,103 @@
+<file>
+	
+  <page>
+    <title>Louisville, Mississippi</title>
+    <id>122469</id>
+    <revision>
+      <id>378936600</id>
+      <timestamp>2010-08-14T21:22:44Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor />
+      <comment>robot Adding: [[ca:Louisville (Mississipí)]]</comment>
+      <text xml:space="preserve">{{Infobox settlement
+	|official_name            = City of Wabash
+	|native_name              =
+	|settlement_type          = [[City]]
+	|nickname                 =
+	|motto                    =
+	|image_skyline            = Wabash-indiana-from-above.jpg
+	|imagesize                =
+	|image_caption            = Wabash from the air, looking west.
+	|image_flag               =
+	|image_seal               =
+	|image_map = Wabash_County_Indiana_Incorporated_and_Unincorporated_areas_Wabash_Highlighted.svg
+	|mapsize                  = 250x200px
+	|map_caption              = Location in the state of [[Indiana]]
+	|image_map1               =
+	|mapsize1                 =
+	|map_caption1             =
+	|subdivision_type         = [[List of countries|Country]]
+	|subdivision_name         = [[United States]]
+	|subdivision_type1        = [[Political divisions of the United States|State]]
+	|subdivision_name1        = [[Indiana]]
+	|subdivision_type2        = [[List of counties in Indiana|County]]
+	|subdivision_name2        = [[Wabash County, Indiana|Wabash]]
+	|subdivision_type3        = [[List of townships in Indiana|Township]]
+	|subdivision_name3        = [[Noble Township, Wabash County, Indiana|Noble]]
+	|government_type          =
+	|leader_title             = [[Mayor]]
+	|leader_name              = Robert Vanlandingham ([[Republican Party (United States)|R]])
+	|leader_title1            = &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+	|leader_name1             =
+	|leader_title2            =
+	|leader_name2             =
+	|leader_title3            =
+	|leader_name3             =
+	|established_title        = &lt;!-- Settled --&gt;
+	|established_date         =
+	|established_title2       = &lt;!-- Incorporated (town) --&gt;
+	|established_date2        =
+	|established_title3       = &lt;!-- Incorporated (city) --&gt;
+	|established_date3        =
+	|area_magnitude           = 1 E7
+	|area_total_km2           = 23.7
+	|area_total_sq_mi         = 9.1
+	|area_land_km2            = 23.1
+	|area_land_sq_mi          = 8.9
+	|area_water_km2           = 0.6
+	|area_water_sq_mi         = 0.2
+	|area_water_percent       = 2.73
+	|area_urban_km2           =
+	|area_urban_sq_mi         =
+	|area_metro_km2           =
+	|area_metro_sq_mi         =
+	|population_as_of         = 2006
+	|population_note          =
+	|population_total         = 11342
+	|population_density_km2   = 509.4
+	|population_density_sq_mi = 1319.0
+	|population_metro         =
+	|population_density_metro_km2     =
+	|population_density_metro_sq_mi   =
+	|population_urban                 =
+	|timezone                 = [[North American Eastern Time Zone|EST]]
+	|utc_offset               = -5
+	|coordinates_display      = inline,title
+	|coordinates_type         = region:US_type:city
+	|latd                     = 40 |latm = 48 |lats = 3 |latNS = N
+	|longd                    = 85 |longm = 49 |longs = 38 |longEW = W
+	|elevation_m              = 217
+	|elevation_ft             = 712
+	|postal_code_type         = [[ZIP code]]
+	|postal_code              = 46992
+	|website                  = [http://www.cityofwabash.com/ www.cityofwabash.com]
+	|area_code                = [[Area code 260|260]]
+	|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+	|blank_info               = 18-79370{{GR|2}}
+	|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+	|blank1_info              = 0445327{{GR|3}}
+	|footnotes                =
+	}}
+	[[Category:Cities in Indiana]]
+        [[Category:Micropolitan areas of Indiana]]
+        [[Category:Wabash County, Indiana]]
+        [[Category:County seats in Indiana]]
+
+
+</text>
+    </revision>
+  </page>
+</file>
