@@ -22,6 +22,12 @@ Searching:
 Search Time (average): 2s
 
 
+Usage:
+1. To compile the code run : install.sh in bin
+1. To generate the index run : index.sh in bin
+2. To start the search engine need to run : query.sh in bin
+
+
 Future Scope:
 1. Apply compression
 2. Searching on basis of various parameters (As in infobox)
